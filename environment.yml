@@ -13,4 +13,7 @@ dependencies:
   - dask
   - math
   - random
+  - pip
+  - pip:
+      - julia
   
